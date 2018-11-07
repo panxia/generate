@@ -15,9 +15,9 @@
 
         <!-- 数据库链接URL、用户名、密码 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://test1269.db.58dns.org:23301/dbchr_marketing?useUnicode=true&amp;characterEncoding=UTF-8&amp;cachePrepStmts=true&amp;prepStmtCacheSize=25&amp;prepStmtCacheSqlLimit=1024"
+                        connectionURL="jdbc:mysql://localhost/dbchr_marketing?useUnicode=true&amp;characterEncoding=UTF-8&amp;cachePrepStmts=true&amp;prepStmtCacheSize=25&amp;prepStmtCacheSqlLimit=1024"
                         userId="admin"
-                        password="43e9a4ab75570f5b">
+                        password="123">
         </jdbcConnection>
 
         <!--
