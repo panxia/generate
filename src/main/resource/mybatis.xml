@@ -17,7 +17,7 @@
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
                         connectionURL="jdbc:mysql://localhost/dbchr_marketing?useUnicode=true&amp;characterEncoding=UTF-8&amp;cachePrepStmts=true&amp;prepStmtCacheSize=25&amp;prepStmtCacheSqlLimit=1024"
                         userId="admin"
-                        password="123">
+                        password="1234">
         </jdbcConnection>
 
         <!--
